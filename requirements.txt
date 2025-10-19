@@ -4,3 +4,4 @@ ipywidgets
 qiskit
 voila
 matplotlib
+anywidget
