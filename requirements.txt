@@ -2,5 +2,4 @@ numpy
 plotly
 ipywidgets
 qiskit
-qiskit-terra
 voila
