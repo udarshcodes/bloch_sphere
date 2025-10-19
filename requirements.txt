@@ -3,3 +3,4 @@ plotly
 ipywidgets
 qiskit
 voila
+matplotlib
